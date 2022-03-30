@@ -5,6 +5,7 @@ Source: https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-fr
 
 <span style="font-size:16px;">**FREE Images/Photos & More**</span>
 
+*   [Pexels](https://www.pexels.com/) - FREE Images & Videos
 *   [Mixkit](https://mixkit.co/) - FREE Images, Videos, Templates & Music
 *   [Pikwizard](https://pikwizard.com/) - FREE Images & Videos
 *   [FOCA](https://focastock.com/) - FREE Images, Videos & Templates
@@ -15,10 +16,10 @@ Source: https://forum.affinity.serif.com/index.php?/topic/110455-freebies-hub-fr
 *   [picryl](https://picryl.com/) - FREE Images, Illustrations, Videos, Music, Documents etc
 *   [USFWS National Digital Library](https://digitalmedia.fws.gov/) - FREE Images, Illustrations, Videos, Audio, Maps etc
 *   [Clip Art Blog](https://publicdomainclip-art.blogspot.com/) - FREE Clip Art & Images
-*   [Pexels](https://www.pexels.com/) - FREE Images & Videos
 
 <span style="font-size:16px;">**FREE Images/Photos Only**</span>
 
+*   [Unsplash](https://unsplash.com/) - FREE Images
 *   [Reshot](https://www.reshot.com/) - FREE Images
 *   [Freephotos](https://freephotos.cc/) - FREE Images
 *   [Freestocks](https://www.freevector.com/) - FREE Images
